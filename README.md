@@ -12,10 +12,6 @@ Here is a link to the video:
 ![A link to the video](video.mov)
 
 
-## Link to Deployed Application
-
-https://aksco.github.io/employeeTracker/
-
 ## Usage 
 
 Update configuration settings in empTracker.js to connect to your SQL.
