@@ -14,8 +14,11 @@ Here is a link to the video:
 ## Usage 
 
 Update configuration settings in empTracker.js to connect to your SQL.
+
 npm init
+
 npm install
+
 Run the empTracker.js file --> node empTracker.js
 
 
