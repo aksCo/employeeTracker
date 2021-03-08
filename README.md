@@ -11,6 +11,7 @@ Here is a link to the video:
 
 ![A link to the video](video.mov)
 
+
 ## Usage 
 
 Update configuration settings in empTracker.js to connect to your SQL.
