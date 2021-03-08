@@ -16,7 +16,6 @@ Here is a link to the video:
 
 https://aksco.github.io/employeeTracker/
 
-
 ## Usage 
 
 Update configuration settings in empTracker.js to connect to your SQL.
