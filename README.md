@@ -9,7 +9,7 @@ Launches an employee tracker
 
 Here is a link to the video:
 
-![A link to the video](video.qt)
+![A link to the video](video.mov)
 
 
 ## Link to Deployed Application
